@@ -41,7 +41,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 - Q
-- GitHub: [Your GitHub Profile](https://github.com/QosmosTheQ)
+- GitHub: [Q GitHub Profile](https://github.com/QosmosTheQ)
 
 ## Acknowledgments
 
