@@ -1,52 +1,41 @@
 # File Organizer
 
-File Organizer is a simple command-line tool written in C++ that helps you organize files in a directory by categorizing them into separate folders based on their file extensions.
+The **File Organizer** is a simple C++ program that helps you organize files in a target directory by categorizing them into specific folders based on their file extensions.
 
 ## Features
 
-- Organize files by moving them into appropriate folders based on their types (e.g., pictures, videos, documents, music, others).
-- Supports a wide range of file extensions for different categories.
-- Easy-to-use command-line interface.
-- Written in C++ and uses the C++17 filesystem library.
+- Automatically organizes files in a directory into separate folders based on their extensions.
+- Supports categorization for various file types: pictures, videos, documents, and music.
+- Any files with unsupported extensions will be placed in the "others" folder.
 
-## Usage
+## How to Use
 
-1. Clone the repository to your local machine.
-2. Compile the code using a C++ compiler (e.g., g++).
-
-```bash
-g++ main.cpp -o file_organizer
-```
-
+1. Clone this repository to your local machine or download the source code.
+2. Compile the C++ program using a C++ compiler (e.g., g++, Visual Studio, etc.).
 3. Run the compiled executable and follow the prompts.
+4. The program will create subfolders for each category and move the corresponding files accordingly.
 
-```bash
-./file_organizer
-```
+## Installation
 
-4. Enter the target directory you want to organize.
+1. Make sure you have a C++ compiler installed on your system.
+2. Clone this repository to your local machine using the following command:
+   ```git clone https://github.com/QosmosTheQ/file-organizer.git```
+
+1. Navigate to the repository directory:
+```cd file-organizer```
+2. Compile the program using a C++ compiler. For example:
+```g++ main.cpp -o file-organizer```
+3. Run the program:
+```./file-organizer```
+
+4. Follow the on-screen instructions to provide the target directory you want to organize.
 
 ## Supported File Types
-
-- **Pictures**: .jpg, .png, .bmp, .gif
-- **Videos**: .mp4, .avi, .mkv, .mov, .wmv
-- **Documents**: .doc, .docx, .txt, .xls, .xlsx, .pdf
-- **Music**: .mp3, .wav, .flac, .ogg
-- **Others**: Any other file types that do not match the above categories.
+Pictures: .jpg, .png, .bmp, .gif
+Videos: .mp4, .avi, .mkv, .mov, .wmv
+Documents: .doc, .docx, .txt, .xls, .xlsx, .pdf
+Music: .mp3, .wav, .flac, .ogg
 
 ## License
+This project is licensed under the MIT License. See LICENSE for details.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-- Q
-- GitHub: [Q GitHub Profile](https://github.com/QosmosTheQ)
-
-## Acknowledgments
-
-- Thanks to the [C++ Standard Library](https://en.cppreference.com/w/cpp/header) for providing the filesystem functionality.
-
-```
-I made this readme.md file to a AI
-```
