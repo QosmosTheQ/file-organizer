@@ -39,3 +39,7 @@ Music: .mp3, .wav, .flac, .ogg
 ## License
 This project is licensed under the MIT License. See LICENSE for details.
 
+Feel free to contribute, open issues, or provide suggestions for improvements! I welcome any contributions.
+
+
+
