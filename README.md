@@ -37,10 +37,10 @@ The **File Organizer** is a simple C++ program that helps you organize files in 
 4. Follow the on-screen instructions to provide the target directory you want to organize.
 
 ## Supported File Types
-Pictures: .jpg, .png, .bmp, .gif
-Videos: .mp4, .avi, .mkv, .mov, .wmv
-Documents: .doc, .docx, .txt, .xls, .xlsx, .pdf
-Music: .mp3, .wav, .flac, .ogg
+##### Pictures:.jpg, .png, .bmp, .gif
+##### Videos: .mp4, .avi, .mkv, .mov, .wmv
+##### Documents: .doc, .docx, .txt, .xls, .xlsx, .pdf
+##### Music: .mp3, .wav, .flac, .ogg
 
 ## License
 This project is licensed under the MIT License. See LICENSE for details.
