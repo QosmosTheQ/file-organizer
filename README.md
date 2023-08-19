@@ -23,11 +23,11 @@ The **File Organizer** is a simple C++ program that helps you organize files in 
    git clone https://github.com/QosmosTheQ/file-organizer.git```
 
 1. Navigate to the repository directory:
-```cd file-organizer```
+```console cd file-organizer```
 2. Compile the program using a C++ compiler. For example:
-```g++ main.cpp -o file-organizer```
+```console g++ main.cpp -o file-organizer```
 3. Run the program:
-```./file-organizer```
+```console ./file-organizer```
 
 4. Follow the on-screen instructions to provide the target directory you want to organize.
 
